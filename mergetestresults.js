@@ -34,5 +34,5 @@ try {
     }
 }
 catch (e) {
-    console.log(e.msg)
+    console.log(e.message)
 }
